@@ -1,0 +1,27 @@
+/*---------header-------*/
+
+html{
+    font-size: 10px;
+}
+
+
+.pepito{
+    background-color: rgb(82, 82, 82);
+    height: 8rem;
+}
+
+
+.menuSuperior{
+    list-style-type: none;
+    text-align: center;
+}
+.menuSuperior li{
+    display: inline-block;
+}
+
+.menuSuperior a{
+color: white;
+text-decoration: none ;
+font-weight: 800;
+font-size: 1.3rem;
+}
